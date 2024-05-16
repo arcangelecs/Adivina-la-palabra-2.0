@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Juego de adivinanzas</title>
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+  <h1>Juego de adivinanzas</h1>
+  
+  <div id="container"
+  <p>¡Adivina la palabra secreta!</p>
+  <input type="text" id="respuesta" placeholder="Escribe tu respuesta aquí">
+  <button id="adivinar">¡Adivinar!</button>
+  <p id="resultado"></p>
+  <script src="script.js"></script>
+  </div>
+  <p>Espero y les alla gustado mi proyecto todavia le faltan algunas cosas que le ire actualizando
+    
+
+
+<p>Si tienen alguna sugerencia
+    <a href="mailto:arcangelecs@gmail.com">escribanme a mi correo</a>
+     !!Saludos!!</p>
+  
+
+
+</body>
+</html>
